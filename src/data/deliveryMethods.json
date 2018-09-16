@@ -1,0 +1,5 @@
+[
+  { "id": "post", "name": "Post Delivery", "price": 5 },
+  { "id": "courier", "name": "Courier Express", "price": 10 },
+  { "id": "in-store", "name": "In store pickup", "price": 0 }
+]
