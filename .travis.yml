@@ -8,7 +8,6 @@ before_install:
   - "npm i"
   - "npm run start &" 
   - "cd ../react-shopping-cart"
-
 cache:
   directories:
     - node_modules
