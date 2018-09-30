@@ -1,6 +1,7 @@
 # warsawjs-workshop-24-shopping-cart
 
-App created for training purposes on the WarsawJS Workshop #24 - integration testing
+App created for training purposes on the WarsawJS Workshop #24 - integration testing.
+Everything except integration tests made by [Mateusz Sojda](https://github.com/msojda).
 
 ## Prerequisites
 
